@@ -1,8 +1,9 @@
-### Hi there 👋
+<h1 align="center"> Olá👋🏻!</h1>
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 📫 How to reach me: matheusmuruci@outlook.com
-- 😄 Pronouns: ele/dele
+  
+  - 🎓 Atualmente estou cursando Ciência da Computação.
 
+  - Gosto de 🎮 JOGOS, 🎥 Filmes e Séries e 🏎 Fórmula 1.
 
+  
 
