@@ -19,9 +19,9 @@
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmslopes&layout=compact&langs_count=7&theme=merko"/> 
   </div> 
 
- 
+  ![Snake animation](https://github.com/Matheusmslopes/Matheusmslopes/blob/output/github-contribution-grid-snake.svg) 
 
-    ![Snake animation](https://github.com/Matheusmslopes/Matheusmslopes/blob/output/github-contribution-grid-snake.svg) 
+   
 
   
 
