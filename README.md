@@ -1,23 +1,22 @@
-<h1 align="center"> Olá👋🏻!</h1>
+# Hi👋🏻, my name is Matheus!
 
-  
-  - 🎓 Atualmente estou cursando Ciência da Computação.
+## About me:
+
+  - 🎓 Studying Computer Science.
 
   - Gosto de 🏎 Fórmula 1 - 🎮 JOGOS - 🎥 Filmes e Séries.
 
-  - email: matheusmuruci@outlook.com
-
-  - Redes sociais:
+  - Get in touch:
    <div> 
      <a href="https://www.instagram.com/matheusmuruc1/"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
      <a href="https://www.linkedin.com/in/matheus-muruci-32a645232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href = "mailto:matheusmuruci@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    </div>
    
   ##
   
   <div align="center"> 
    <a href="https://github.com/Matheusmslopes"> 
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheusmslopes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmslopes&layout=compact&langs_count=7&theme=merko"/> 
   </div> 
 
@@ -31,10 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40"> </p>
- 
- ## 
-    
-![Snake animation](https://github.com/Matheusmslopes/Matheusmslopes/blob/output/github-contribution-grid-snake.svg) 
+
+
 
    
 
