@@ -31,10 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40"> </p>
- 
- ## 
-    
-![Snake animation](https://github.com/Matheusmslopes/Matheusmslopes/blob/output/github-contribution-grid-snake.svg) 
 
    
 
