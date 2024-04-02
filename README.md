@@ -12,6 +12,7 @@
   - ORM(Prisma);
   - React;
   - C;
+  - .NET;
   - C#;
   - HTML, CSS, Javascript;
   - React Native;
