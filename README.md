@@ -13,6 +13,7 @@
   - React;
   - C;
   - C#;
+  - .NET
   - HTML, CSS, Javascript;
   - React Native;
 
