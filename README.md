@@ -20,7 +20,7 @@
    I love challenges and I want to grow professionally every single day.
 
    <section width="100%">
-  <h1>My GitHub Stats </h1>
+   <h1>My GitHub Stats </h1>
   
   <img 
       width="49%" 
@@ -31,6 +31,11 @@
       height="210px"
       src="https://github-readme-streak-stats.herokuapp.com/?user=Matheusmslopes&locale=pt-br&theme=tokyonight&hide_border=false"/>
 <section >
+  
+ <div align="center"> 
+   <a href="https://github.com/Matheusmslopes"> 
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmslopes&layout=compact&langs_count=7&theme=tokyonight"/> 
+ </div> 
 
    Get in touch:
    <div> 
@@ -41,10 +46,6 @@
    
   ##
   
-  <div align="center"> 
-   <a href="https://github.com/Matheusmslopes"> 
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmslopes&layout=compact&langs_count=7&theme=tokyonight"/> 
-  </div> 
 
 
    
