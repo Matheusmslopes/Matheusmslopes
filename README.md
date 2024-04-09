@@ -25,11 +25,11 @@
   <img 
       width="49%" 
       height="200px"
-      src="https://github-readme-stats.vercel.app/api?username=Matheusmslopes&show_icons=true&locale=pt-br&count_private=true&hide_rank=true&theme=tokyonight"/>
+      src="https://github-readme-stats.vercel.app/api?username=Matheusmslopes&show_icons=true&locale=en&count_private=true&hide_rank=true&theme=tokyonight"/>
   <img 
       width="49%"
       height="210px"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Matheusmslopes&locale=pt-br&theme=tokyonight&hide_border=false"/>
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Matheusmslopes&locale=en&theme=tokyonight&hide_border=false"/>
 <section >
   
  <div align="center"> 
