@@ -1,7 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋🏻,+my+name+is+Matheus!;Be+welcome💗&color=7aa2f7)](https://git.io/typing-svg)
 
   ## About me: 
-   🎓 Studying Computer Science.
+   🎓 Computer Science.
   
   in love with the tech area and passionate about solving problems.
 
